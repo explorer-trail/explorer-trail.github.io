@@ -23,7 +23,8 @@ defmodule ExplorerTrail.MixProject do
     [
       {:nimble_publisher, "~> 1.0"},
       {:makeup_elixir, ">= 0.0.0"},
-      {:makeup_erlang, ">= 0.0.0"}
+      {:makeup_erlang, ">= 0.0.0"},
+      {:phoenix_live_view, "~> 1.0.0-rc.0"}
     ]
   end
 end
