@@ -2,7 +2,7 @@ defmodule ExplorerTrail do
   use Phoenix.Component
   import Phoenix.HTML
 
-  @output_dir "./_output"
+  @output_dir "./output"
   File.mkdir_p!(@output_dir)
 
   def build() do

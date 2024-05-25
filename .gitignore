@@ -2,7 +2,7 @@
 /_build/
 
 # The directory where the static site gen will put files
-/_output/
+/output/
 
 # If you run "mix test --cover", coverage assets end up here.
 /cover/
