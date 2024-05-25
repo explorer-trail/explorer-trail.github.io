@@ -1,21 +1,13 @@
 # ExplorerTrail
 
-**TODO: Add description**
+This is a blog build using static site generation using Elixir and Phoenix
 
-## Installation
+## How to build
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `explorer_trail` to your list of dependencies in `mix.exs`:
+The articles/posts are written using markdown syntax.
 
-```elixir
-def deps do
-  [
-    {:explorer_trail, "~> 0.1.0"}
-  ]
-end
+To generate the static site run this in terminal
+
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/explorer_trail>.
-
+mix build
+```
