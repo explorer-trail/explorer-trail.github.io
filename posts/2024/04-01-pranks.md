@@ -10,3 +10,7 @@ description: "Let's learn how to do pranks!"
 ## Gotcha! Not a real post.
 
 This is very funny.
+
+```elixir
+x = 1
+```
